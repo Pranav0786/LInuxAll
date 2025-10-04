@@ -1,7 +1,7 @@
 # LInuxAll
 
 
-![You and ONLY YOU!!](./veda.png)
+![You and ONLY YOU!!](./V.png)
 
 
 ### Basic 
