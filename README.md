@@ -1,5 +1,9 @@
 # LInuxAll
 
+
+![You and ONLY YOU!!](./veda.png)
+
+
 ### Basic 
 ```
 sudo apt update
